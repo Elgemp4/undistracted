@@ -1,6 +1,6 @@
 {
-  "name": "wxt-react-starter",
-  "description": "manifest.json description",
+  "name": "Undistracted",
+  "description": "A simple chrome & firefox to help you save time and focus on your work.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
